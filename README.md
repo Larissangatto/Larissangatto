@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Larissangatto/Larissangatto/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Larissangatto/Larissangatto/main/snake.svg" alt="Snake animation" />
 
 ###
