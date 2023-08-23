@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 👧🏻Me chamo Larissa Nathanna Gatto, nasci e cresci em Ribeirão Preto / SP - Brasil, morrei  um ano nos Estados Unidos.<br>- 🔭 Atualmente não estou trabalhando mas procuro emprego na área de Análise de dados. 📈<br>- 📚 Eu atualmente ando aprendendo Python🐍 e Power BI 📊.<br>- ⚡Nas minhas horas vagas eu gosto de assistir séries ou estar ao ar livre.<br>- 🧾✒️Fiquem à vontade para entrar em contato comigo e visualizar meu Portifólio.</p>
+<p align="left">- 👧🏻Me chamo Larissa Nathanna Gatto, nasci e cresci em Ribeirão Preto / SP - Brasil, morei  um ano nos Estados Unidos.<br>- 🔭 Atualmente não estou trabalhando mas procuro emprego na área de Análise de dados. 📈<br>- 📚 Eu atualmente estou aprendendo Python🐍 e Power BI 📊.<br>- ⚡Nas minhas horas vagas eu gosto de assistir séries ou estar ao ar livre.<br>- 🧾✒️Fiquem à vontade para entrar em contato comigo e visualizar meu Portifólio.</p>
 
 ###
 
