@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋 I'm Larissa Gatto</h1>
 
-<h3 align="center">
+<h3 align="left">
 Python • JavaScript • Flask • Web Development
 </h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Larissangatto.Larissangatto" />
 </div>
 
