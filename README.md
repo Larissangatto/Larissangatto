@@ -7,7 +7,7 @@ Python • JavaScript • Flask • Web Development
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Larissangatto.Larissangatto" />
 </div>
 
@@ -61,7 +61,7 @@ Python • JavaScript • Flask • Web Development
 
 ###
 
-<div align="center">
+<div align="left">
 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Larissangatto&show_icons=true&theme=tokyonight&hide_border=true" />
 
@@ -71,7 +71,7 @@ Python • JavaScript • Flask • Web Development
 
 ###
 
-<div align="center">
+<div align="left">
 
   <img src="https://streak-stats.demolab.com?user=Larissangatto&theme=tokyonight&hide_border=true" height="220" />
 
@@ -79,7 +79,7 @@ Python • JavaScript • Flask • Web Development
 
 ###
 
-<div align="center">
+<div align="left">
 
   <a href="mailto:larissangatto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
