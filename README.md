@@ -1,17 +1,12 @@
 
-<h1 align="center">Hi 👋 I'm Larissa Gatto</h1>
-
-<h3 align="left">
+## <h1 align="center">Hi 👋 I'm Larissa Gatto</h1>
+<h3 align="center">
 Python • JavaScript • Flask • Web Development
 </h3>
-
-###
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Larissangatto.Larissangatto" />
 </div>
 
-###
 
 ## 👩‍💻 About Me
 
@@ -27,7 +22,7 @@ Python • JavaScript • Flask • Web Development
 
 ###
 
-<div align="center">
+<div align="left">
 
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,git,github,vscode" height="50" />
 
@@ -60,14 +55,6 @@ Python • JavaScript • Flask • Web Development
 <h3 align="left">📊 GitHub Stats</h3>
 
 ###
-
-<div align="left">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Larissangatto&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissangatto&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ###
 
