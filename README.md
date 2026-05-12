@@ -1,61 +1,97 @@
-<h1 align="center">Bem vindo a minha página do GitHub! 👋<br>Welcome to my GitHub page! 👋</h1>
 
-###
+<h1 align="center">Hi 👋 I'm Larissa Gatto</h1>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Larissangatto.Larissangatto&"  />
-</div>
-
-###
-
-<img align="left" height="310" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  />
-
-###
-
-<h3 align="left">👩‍💻 Sobre mim:</h3>
-
-###
-
-<p align="left">- 👧🏻Me chamo Larissa Nathanna Gatto, nasci e cresci em Ribeirão Preto / SP - Brasil, morei  um ano nos Estados Unidos.<br>- 🔭 Atualmente trabalho com marketing digital e desenvolvimento de sistemas. 📈<br>- 📚 E continuo aprendendo Python🐍 e Power BI 📊.<br>- ⚡Nas minhas horas vagas eu gosto de assistir séries ou estar ao ar livre.<br>- 🧾✒️Fiquem à vontade para entrar em contato comigo e visualizar meu Portifólio.</p>
-
-###
-
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=larissangatto@gmail.com&color=D14836&logoColor=white&labelColor=&style=plastic" height="27" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/larissangatto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=https://www.linkedin.com/in/larissangatto/&color=0077B5&logoColor=white&labelColor=&style=plastic" height="27" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🛠 Lingaguens e ferramentas</h3>
+<h3 align="center">
+Python • JavaScript • Flask • Web Development
+</h3>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Larissangatto.Larissangatto" />
 </div>
 
 ###
 
-<h3 align="left">🔥   Meu Stats :</h3>
+## 👩‍💻 About Me
+
+- 🇧🇷 Brazilian living in Orlando, FL
+- 💻 Transitioning into tech with focus on web development and data analysis
+- 🌱 Currently improving my skills in Python, Flask and JavaScript
+- 🛒 Experience with Shopify, digital marketing and system support
+- 📊 Power BI enthusiast
+
+###
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+###
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,git,github,vscode" height="50" />
+
+</div>
+
+###
+
+<h3 align="left">🚀 Featured Projects</h3>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Larissangatto&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Larissangatto&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+- 🔐 Flask Authentication System  
+  Login and authentication system using Flask.
+
+- 🌐 Personal Portfolio Website  
+  Responsive portfolio built with HTML, CSS and JavaScript.
+
+- 🛒 Shopify Landing Pages  
+  Custom landing pages for e-commerce businesses.
+
+- 📈 Business Tools & Automation  
+  Internal tools and automation projects using Python.
+
+</div>
+
+###
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Larissangatto&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissangatto&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+###
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Larissangatto&theme=tokyonight&hide_border=true" height="220" />
+
+</div>
+
+###
+
+<div align="center">
+
+  <a href="mailto:larissangatto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/larissangatto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/Larissangatto/Larissangatto/main/snake.svg" alt="Snake animation" />
 
-###
